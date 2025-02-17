@@ -1,6 +1,6 @@
-born -> 🗼
-live -> 🌁
-work -> 💻
+born -> 🗼  
+live -> 🌁  
+work -> 💻  
 
 <!--
 **tomoueda/tomoueda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
